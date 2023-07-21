@@ -1,6 +1,6 @@
-"45 Wall St",
-"Sorrento Valley R",
-"3rd Ave NE",
-"Independence Dr",
-"Lenox Rd Northeast B17",
-"201 Creekwood Way"
+"1160 Romines Mill Road",
+"4831 Thompson Street",
+"3986 Cherry Camp Road",
+"Woodside Circle FL",
+"Fannie Street TX",
+"756 Newton Street MN"
